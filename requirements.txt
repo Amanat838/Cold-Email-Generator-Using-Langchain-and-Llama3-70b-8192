@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+chromadb
+pandas
+playwright
+python-dotenv
+uuid
+selenium
